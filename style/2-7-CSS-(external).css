@@ -1,0 +1,20 @@
+ .div{
+            background-color: aquamarine;
+            border: 10px solid tomato;
+            border-radius: 20px;
+            padding: 10px;
+            margin: 10px;
+            width: fit-content;
+            text-align: justify;
+            height: fit-content;
+            box-shadow: 10px 10px 10px tomato;
+        }
+h1{
+    color: chocolate;
+    text-align: center;
+    text-decoration: wavy;
+}
+span{
+    border: 1px solid salmon;
+    display: block;
+}
